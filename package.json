@@ -1,0 +1,11 @@
+{
+  "name": "fingerprintjs-tester",
+  "version": "1.0.0",
+  "description": "FingerprintJS lib version tester",
+  "author": "Fellipe Chagas",
+  "license": "MIT",
+  "dependencies": {
+    "fingerprintjs": "^0.5.3",
+    "fingerprintjs2": "^1.4.0"
+  }
+}
