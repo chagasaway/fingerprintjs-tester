@@ -1,0 +1,6 @@
+{
+  "name": "Fingerprintjs-tester",
+  "tagline": "A simple FingerprintJS v1 & v2 tester",
+  "body": "# FingerPrintJS Version Tester\r\n\r\nnpm install & open index.html\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
